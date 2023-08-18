@@ -3,4 +3,4 @@
 Participantes:
   - Esteban Vásquez Grados
   - Ximena Lindo Peña
-  - Kelvin Cahuana Condori 
+  - Kelvin Cahuana Condori
