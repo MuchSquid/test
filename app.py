@@ -3,7 +3,7 @@ from flask import Flask
 from flask import request
 
  
-
+print(1)
 app = Flask(__name__)
 
  
