@@ -13,6 +13,6 @@ Participantes:
 |:--------:|:--------:|
 | ![Imagen2](https://media.discordapp.net/attachments/1013288517461344348/1141909380359536680/image.png?width=1225&height=778) | ![Imagen3](https://media.discordapp.net/attachments/1013288517461344348/1141904581979291738/image.png?width=627&height=663) |
 
-| Branch 3 | 
-|:--------:|
-|![Imagen3](https://media.discordapp.net/attachments/1013288517461344348/1141909450706387055/image.png?width=1734&height=1295)|
+| Branch 3 | Branch 4 |
+|:--------:|:--------:|
+| ![Imagen4](https://media.discordapp.net/attachments/1013288517461344348/1141910008905343086/image.png?width=997&height=1358) |![Imagen3](https://media.discordapp.net/attachments/1013288517461344348/1141909450706387055/image.png?width=1734&height=1295)|
